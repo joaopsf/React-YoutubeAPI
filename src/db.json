@@ -1,0 +1,174 @@
+{
+  "playlist": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/CK9KSwhr6tSkNEd3H5Z0wYHZ2Fc\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YKrUICOZT-8"
+      },
+      "snippet": {
+        "publishedAt": "2012-01-24T18:18:43.000Z",
+        "channelId": "UCELqfthdDi9atmA_dRlpgPw",
+        "title": "Swallow The Sun - Descending Winters",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YKrUICOZT-8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YKrUICOZT-8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YKrUICOZT-8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Alexandr Tau",
+        "liveBroadcastContent": "none"
+      },
+      "videoIdDb": "YKrUICOZT-8"
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/6VWL70eHnTss1TXeAg2Ukhu3zyY\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0kAGaRzLqMw"
+      },
+      "snippet": {
+        "publishedAt": "2012-10-14T09:43:05.000Z",
+        "channelId": "UCLkOJ9H945v4VY6Ove0Dbzw",
+        "title": "ICS Vortex&#39;s best vox solo",
+        "description": "vortex is god song: Insight and the Catharsis by Dimmu Borgir.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0kAGaRzLqMw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0kAGaRzLqMw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0kAGaRzLqMw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "thesickest12",
+        "liveBroadcastContent": "none"
+      },
+      "videoIdDb": "0kAGaRzLqMw"
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/1mRJIAPt9gv-9O1YNKm_p3T3yuA\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "skEkpogsmE0"
+      },
+      "snippet": {
+        "publishedAt": "2020-02-12T11:00:11.000Z",
+        "channelId": "UCJToUvYrmkmTCR-bluEaQfA",
+        "title": "BAND-MAID / The Dragon Cries",
+        "description": "Welcome home,master & princess” BAND-MAID is an impossibly hard rocking maid band. 12月11日（水）リリース、 3rd Album「CONQUEROR」収録の \"The ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/skEkpogsmE0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/skEkpogsmE0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/skEkpogsmE0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BANDMAID",
+        "liveBroadcastContent": "none"
+      },
+      "videoIdDb": "skEkpogsmE0"
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/NQ6m43ZnflYmcw4oLiuLlNemIuk\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uUt_JBMocKM"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-10T03:00:05.000Z",
+        "channelId": "UCJToUvYrmkmTCR-bluEaQfA",
+        "title": "BAND-MAID / Blooming",
+        "description": "Welcome home,master & princess” BAND-MAID is an impossibly hard rocking maid band. 12月11日（水）リリース、 3rd Album「CONQUEROR」収録の \"Blooming\" ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uUt_JBMocKM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uUt_JBMocKM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uUt_JBMocKM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BANDMAID",
+        "liveBroadcastContent": "none"
+      },
+      "videoIdDb": "uUt_JBMocKM"
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/wD1WknRWXgAkO9Zhx_uGkvEWS_Y\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "S-AKursvupQ"
+      },
+      "snippet": {
+        "publishedAt": "2011-08-17T15:03:04.000Z",
+        "channelId": "UCnK9PxMozTYs8ELOvgMNKFA",
+        "title": "ICS Vortex - Odin&#39;s Tree (OFFICIAL ALBUM TRACK)",
+        "description": "ICS Vortex - Odin's Tree (OFFICIAL ALBUM TRACK). Taken from the album \"Storm Seeker\". Century Media 2011.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S-AKursvupQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S-AKursvupQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S-AKursvupQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Century Media Records",
+        "liveBroadcastContent": "none"
+      },
+      "videoIdDb": "S-AKursvupQ"
+    }
+  ]
+}
