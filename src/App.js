@@ -12,9 +12,11 @@ import VideoDetail from './components/VideoDetail'
 
 import axios from 'axios'
 import _ from 'lodash'
+import {API_KEY} from './environments/base'
 
 const axiosRequestYoutube = axios.create({ baseURL: 'https://www.googleapis.com/youtube/v3/' })
 const axiosRequestPLayList = axios.create({ baseURL: 'http://localhost:3001/' })
+
 
 class App extends React.Component {
 
@@ -35,7 +37,7 @@ class App extends React.Component {
                 part: 'snippet',
                 maxResults: 4,
                 type: 'video',
-                key: 'AIzaSyDJl9d4GxpXCq9Z2uUrV1XoA8hsaPtiJXU'
+                key: API_KEY
             }
         })
         this.handleRemoveVideoIfOnPLayList(response.data.items)
